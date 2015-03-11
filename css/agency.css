@@ -871,8 +871,12 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
-.course-description{
+.ibrahim-course-description{
     background-color: #d9edf7;
+}
+
+.stories-home{
+    background-color: #e7e7e7;
 }
 
 .course-description h6{
